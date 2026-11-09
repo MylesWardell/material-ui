@@ -11,10 +11,10 @@
   "dependencies": {
     "@emotion/react": "latest",
     "@emotion/styled": "latest",
-    "@mui/icons-material": "next",
-    "@mui/material": "next",
-    "react": "latest",
-    "react-dom": "latest"
+    "@mui/icons-material": "9.5.0",
+    "@mui/material": "9.5.0",
+    "react": "19.3.1",
+    "react-dom": "19.3.1"
   },
   "devDependencies": {
     "@types/react": "latest",
